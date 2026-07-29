@@ -1,3 +1,5 @@
+AULA 1 28/07/2026
+
 1. Por que a Engenharia de Software surgiu como resposta a uma crise, e não apenas como evolução natural da programação?
 Resposta: A Engenharia de Software surgiu por causa da crise do software, quando projetos começaram a atrasar, ter muitos erros 
 e altos custos. Foi necessário criar métodos para organizar o desenvolvimento. 
@@ -10,3 +12,26 @@ usam tecnologias, recursos e testes diferentes.
 Resposta: O software não se desgasta fisicamente, mas fica obsoleto porque a tecnologia evolui,
 surgem novas necessidades e sistemas antigos ficam mais difíceis de atualizar e manter. 
 
+Listar 3 aplicativos que você usa com frequência e identificar: 
+(1) que tipo de aplicação é (sistema de informação, mobile, web, jogo, embarcado); 
+(2) uma característica do software (das 4 estudadas) que fica evidente nesse aplicativo
+
+Aplicativo	Tipo de aplicação	Característica do software
+WhatsApp	Mobile	Usabilidade: fácil de usar e enviar mensagens ridamente.
+Instagram	Mobile	Manutenibilidade: recebe atualizações frequentes com novos recursos.
+TikTok	Mobile	Eficiência: carrega vídeos rapidamente e oferece boa experiência ao usuário.
+
+AULA 2 
+
+1. Qual a diferença prática entre "programar" e "fazer engenharia de software"? Em que momento um projeto pessoal 
+passa a exigir um processo mais formal?
+RESPOSTA: Programar é escrever o código. Já a Engenharia de Software envolve planejar, desenvolver, 
+testar e manter o sistema. Um projeto passa a exigir um processo mais formal quando cresce em tamanho, 
+complexidade ou envolve várias pessoas.
+
+2. Dos 4 atributos de um bom software, qual é o mais difícil de garantir na prática? Por quê?
+RESPOSTA: A manutenibilidade, porque o software precisa ser atualizado e corrigido ao longo do tempo sem causar novos problemas.
+
+3. O ciclo de vida é sempre sequencial? Por que a "evolução" pode levar de volta à "especificação"?
+RESPOSTA: Não. O ciclo de vida pode voltar às etapas anteriores. Durante a evolução, surgem novas necessidades ou mudanças nos 
+requisitos, sendo necessário revisar a especificação antes de continuar o desenvolvimento.
