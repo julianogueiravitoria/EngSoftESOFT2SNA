@@ -1,0 +1,12 @@
+1. Por que a Engenharia de Software surgiu como resposta a uma crise, e não apenas como evolução natural da programação?
+Resposta: A Engenharia de Software surgiu por causa da crise do software, quando projetos começaram a atrasar, ter muitos erros 
+e altos custos. Foi necessário criar métodos para organizar o desenvolvimento. 
+
+2. Um mesmo requisito pode ser atendido por tipos de aplicação muito diferentes (web, mobile, embarcado). O que muda na engenharia de cada um?
+Resposta: O requisito é o mesmo, mas a engenharia muda conforme a plataforma. Aplicações web, mobile e embarcadas
+usam tecnologias, recursos e testes diferentes. 
+
+3. Se o software não se desgasta fisicamente, por que sistemas antigos ainda ficam obsoletos ou difíceis de manter?
+Resposta: O software não se desgasta fisicamente, mas fica obsoleto porque a tecnologia evolui,
+surgem novas necessidades e sistemas antigos ficam mais difíceis de atualizar e manter. 
+
