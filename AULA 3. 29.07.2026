@@ -1,0 +1,27 @@
+AULA 3 
+Por que um modelo tão rígido quanto o Cascata ainda é usado em alguns contextos hoje?
+RESPOSTA: Cascata: Ainda é usado em projetos com requisitos bem definidos e poucas mudanças. 
+
+O modelo Incremental reduz o risco de atraso, mas cria que tipo de risco novo (dica: visão do todo do sistema)?
+RESPOSTA: Incremental: O risco é perder a visão do sistema como um todo, gerando problemas de integração.
+
+Por que o modelo Espiral, apesar de mais caro, é preferido em projetos como softwares aeroespaciais?
+RESPOSTA: Espiral: É preferido porque reduz riscos e aumenta a segurança em sistemas críticos. 
+
+Atividade em sala 
+Qual Modelo Vocês Escolheriam?
+
+Apresente 3 cenários de projeto: (1) site institucional simples; (2) app de rifas online;
+(3) software de controle de tráfego aéreo. Indicar qual modelo de processo usaria em cada um, justificando a escolha.
+
+1. Site institucional simples
+ Modelo: Cascata.
+ Justificativa: Requisitos claros e poucas mudanças.
+ 
+2. App de rifas online
+ Modelo: Incremental.
+ Justificativa: Permite desenvolver e entregar funcionalidades aos poucos.
+ 
+3. Software de controle de tráfego aéreo
+ Modelo: Espiral.
+ Justificativa: Prioriza a análise de riscos e a confiabilidade do sistema.
