@@ -1,0 +1,27 @@
+AULA 6
+1.Por que XP valoriza tanto "coragem" como um valor de engenharia, e não apenas uma característica pessoal? 
+RESPOSTA: Porque a equipe precisa ter coragem para corrigir erros, melhorar o código e aceitar mudanças quando necessário. 
+
+2.Scrum e Kanban resolvem o mesmo problema (organizar o trabalho) de formas diferentes. 
+Em que tipo de projeto o Kanban seria melhor que o Scrum? 
+RESPOSTA: Em projetos com demandas contínuas, como suporte técnico ou manutenção de sistemas, 
+onde as tarefas chegam a qualquer momento. 
+
+3. Se o Product Owner e o Scrum Master tivessem os papéis invertidos, o que poderia dar errado? 
+RESPOSTA: O projeto poderia perder organização, pois o Product Owner define prioridades e o Scrum Master cuida do processo e da equipe. 
+
+
+Atividade em Sala 
+Montem um Quadro Kanban
+
+ Lista fictícia de 6 tarefas de um "app de tarefas" (login, cadastro de tarefas,
+ notificações, tema escuro, sincronização em nuvem, relatório). Montar um quadro Kanban simples (A Fazer / Fazendo / Feito) 
+ no quadro ou em papel, e definam um limite de WIP razoável para a coluna "Fazendo" 
+
+Atividade em Sala – Quadro Kanban
+A Fazer: Notificaçoes e Tema escuro
+Fazendo (WIP: 2): Login e Sincronização em nuvem
+Feito: Cadastro de tarefas e Relatório
+
+Limite de WIP: 2 tarefas na coluna Fazendo. Isso evita que a equipe trabalhe em muitas tarefas ao mesmo tempo.
+
