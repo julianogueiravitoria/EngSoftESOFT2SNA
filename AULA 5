@@ -1,0 +1,31 @@
+AULA 5 
+1. O Manifesto diz que os itens da direita "ainda têm valor". Em que situação a documentação formal pode ser tão
+importante quanto o software funcionando? 
+
+RESPOSTA: A documentação formal é muito importante em projetos críticos, como sistemas bancários, 
+hospitalares e aeronáuticos, onde é necessário registrar tudo para segurança e auditorias. 
+
+2. Qual princípio ágil vocês acham mais difícil de aplicar em um projeto acadêmico com prazos fixos?
+
+RESPOSTA: O princípio mais difícil é aceitar mudanças frequentes, porque os prazos acadêmicos costumam 
+ser fixos e limitam alterações no projeto. 
+
+3. "Simplicidade — maximizar o trabalho não realizado" parece contraintuitivo. O que isso significa na prática? 
+
+RESPOSTA: Significa fazer apenas o que é realmente necessário no momento, evitando criar funções ou 
+processos que não serão usados. Isso economiza tempo e reduz a complexidade. 
+
+Atividade em Sala 
+
+Expliquem um Princípio Ágil
+
+ Elaborar um princípio do Manifesto Ágil (diferente para cada grupo). Explicar com suas próprias palavras e um exemplo prático, 
+o que aquele princípio significa. 
+
+Princípio Ágil: Mudanças de requisitos são bem-vindas, mesmo no final do desenvolvimento.
+
+Explicação: Esse princípio significa que a equipe deve estar preparada para adaptar o software quando o cliente precisar
+de alguma mudança, em vez de seguir um plano rígido.
+
+Exemplo prático: Durante o desenvolvimento de um aplicativo de pedidos, 
+o cliente pede para adicionar pagamento por Pix. A equipe faz a alteração para atender à nova necessidade, melhorando o sistema.
