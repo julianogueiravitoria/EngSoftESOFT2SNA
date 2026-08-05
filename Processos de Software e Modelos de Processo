@@ -1,0 +1,36 @@
+README.md
+Processos de Software e Modelos de Processo
+Matéria: Engenharia de Software
+Aluno: Júlia Nogueira Vitória
+
+Objetivo
+Este trabalho apresenta um modelo de processo de software, explicando seu funcionamento e justificando sua escolha.
+
+Modelo escolhido: Modelo Incremental
+
+Conteúdo
+O que é o Modelo Incremental.
+Como ele funciona.
+Vantagens e desvantagens.
+Justificativa da escolha.
+
+Documentação – Modelo Incremental
+O Modelo Incremental divide o desenvolvimento do software em pequenas partes (incrementos). 
+Cada parte é planejada, desenvolvida, testada e entregue separadamente. Assim, o cliente pode utilizar 
+funcionalidades antes da conclusão total do projeto.
+
+Vantagens
+Entregas mais rápidas.
+Facilidade para corrigir erros.
+Menor risco durante o desenvolvimento.
+Permite melhorias contínuas.
+
+Desvantagens
+Exige bom planejamento.
+Pode ser difícil integrar todos os incrementos no final.
+O custo pode aumentar se houver muitas mudanças.
+
+Justificativa da escolha
+Escolhi o Modelo Incremental porque ele permite desenvolver o software aos poucos, entregando partes 
+funcionais rapidamente. Isso facilita encontrar erros, receber feedback do cliente e realizar melhorias durante o 
+desenvolvimento, tornando o projeto mais flexível e eficiente.
