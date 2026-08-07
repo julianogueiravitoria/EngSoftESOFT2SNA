@@ -1,0 +1,26 @@
+AULA 8 
+13. O Bug do Milênio nasceu de uma decisão que fazia sentido nos anos 1960-70. Que decisões de hoje podem parecer um erro
+parecido daqui a 30 anos?
+ Resposta: Um exemplo é depender de tecnologias antigas ou criar sistemas sem pensar em segurança e escalabilidade. 
+No futuro, isso pode causar grandes problemas.
+
+14. Qual a diferença entre manutenção evolutiva (adicionar funcionalidade) e evolução do software como conceito mais amplo?
+ Resposta: A manutenção evolutiva adiciona novas funcionalidades. Já a evolução do software engloba todas
+as mudanças realizadas ao longo do tempo, incluindo correções, adaptações e melhorias.
+
+15. Por que a gerência de configuração se torna mais crítica quanto maior é a equipe de desenvolvimento?
+ Resposta: Porque, com mais desenvolvedores, aumenta o risco de conflitos entre versões do código.
+A gerência de configuração organiza e controla essas alterações.
+
+16. Classificar 4 situações fictícias de manutenção:
+corrigir erro de cálculo na folha de pagamento;
+adaptar o sistema para a nova versão do Android;
+adicionar exportação de relatórios em PDF;
+reorganizar o código para facilitar alterações futuras.
+
+Resposta:
+Corrigir erro de cálculo na folha de pagamento → Manutenção corretiva.
+Adaptar o sistema para a nova versão do Android → Manutenção adaptativa.
+Adicionar exportação de relatórios em PDF → Manutenção evolutiva.
+Reorganizar o código para facilitar alterações futuras → Manutenção preventiva.
+
