@@ -1,0 +1,33 @@
+AULA 7 
+1. Se testar não prova a ausência de erros, como decidir "quando parar" de testar um sistema?
+RESPOSTA:Deve-se parar de testar quando os principais requisitos forem validados, os erros críticos 
+corrigidos e o risco restante for considerado aceitável. 
+
+
+2. O erro do Ariane 5 veio de um código reaproveitado de outro foguete. O que isso ensina sobre testar 
+código legado em um novo contexto?
+RESPOSTA: Ensina que código reaproveitado deve ser testado novamente, pois um novo contexto pode gerar 
+falhas que não existiam no sistema anterior.
+
+
+3. Por que o teste de aceitação, mesmo sendo o mais "amplo", não substitui os testes unitários e de integração?
+RESPOSTA:Porque os testes de aceitação verificam o sistema como um todo, mas não identificam detalhes internos. 
+Os testes unitários e de integração encontram erros em funções e na comunicação entre os módulos.
+
+
+
+4. Apresente um caso de teste, onde irá testar uma função que classifica idade em "criança" (0-11), 
+"adolescente" (12-17) ou "adulto" (18+). Escrever pelo menos 5 casos de teste cobrindo valores normais e 
+de fronteira (11, 12, 17, 18).
+RESPOSTA:
+
+Caso    Entrada (idade)    Resultado esperado
+1              10                  Criança
+2              11                  Criança
+3              12                  Adolescente
+4              17                  Adolescente
+5              18                    Adulto
+
+
+
+
