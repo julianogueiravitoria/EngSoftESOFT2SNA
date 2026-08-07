@@ -1,0 +1,45 @@
+Metodologias Ágeis – Scrum
+Objetivo
+
+Este trabalho apresenta a metodologia ágil Scrum, explicando seus principais conceitos e demonstrando 
+sua aplicação em um estudo de caso simples.
+
+O que é Scrum?
+Scrum é uma metodologia ágil utilizada para organizar e gerenciar projetos de forma colaborativa.
+O trabalho é dividido em pequenas etapas chamadas Sprints, permitindo entregas frequentes e melhorias contínuas.
+
+Principais Papéis
+Product Owner: define e prioriza as funcionalidades.
+Scrum Master: garante que a equipe siga o Scrum.
+Equipe de Desenvolvimento: desenvolve e entrega o produto.
+
+
+Vantagens
+Entregas rápidas.
+Melhor comunicação da equipe.
+Facilidade para adaptar mudanças.
+Maior qualidade do produto.
+
+Conclusão
+O Scrum é uma metodologia eficiente para projetos de software, pois permite acompanhar o 
+progresso do projeto e realizar melhorias contínuas durante o desenvolvimento.
+
+Estudo de Caso
+
+ Desenvolvimento de um Aplicativo para Biblioteca
+
+Uma equipe foi contratada para desenvolver um aplicativo que permite aos alunos consultar 
+livros disponíveis, fazer reservas e renovar empréstimos.
+
+A equipe escolheu utilizar o Scrum.
+
+Como foi aplicado
+* O Product Owner definiu as funcionalidades mais importantes.
+* O trabalho foi dividido em Sprints de duas semanas.
+* Todos os dias a equipe realizou reuniões rápidas para acompanhar o andamento.
+* Ao final de cada Sprint, uma nova versão do aplicativo foi entregue para avaliação.
+
+Resultado
+Com o uso do Scrum, o projeto foi desenvolvido de forma organizada, permitindo corrigir problemas rapidamente e 
+entregar funcionalidades aos poucos até a conclusão do sistema.
+
